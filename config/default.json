@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Bratishques:812951476@cluster0-xpfff.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "Bratishques",
+  "baseUrl": "http://localhost:5000"
+}
